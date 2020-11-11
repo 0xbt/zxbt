@@ -13,3 +13,5 @@ Messages can be sent by any owner of 1 ZXBT token.
 Messages can be sent to any address in the Ethereum network.
 
 https://zxbt.0xbt.net
+
+Closed - smart contract error !!!
